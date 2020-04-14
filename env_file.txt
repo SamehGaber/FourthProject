@@ -1,0 +1,4 @@
+JWT_SECRET="123a43wbc"
+LOG_LEVEL="DEBUG"
+
+
